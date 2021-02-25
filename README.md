@@ -26,7 +26,7 @@ pip3 install .
 To run tests, simply run the following command:
 
 ```
-pytest -verbose
+pytest --verbose
 ```
 
 ## Releases
