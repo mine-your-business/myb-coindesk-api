@@ -20,7 +20,7 @@ setup(
         'requests>=2.22.0'
     ],
     url='https://github.com/mine-your-business/myb-coindesk-api',
-    python_requires='>=3.6',
+    python_requires='>=3.7',
     zip_safe=False,
     license='GPL-3',
     classifiers=[
