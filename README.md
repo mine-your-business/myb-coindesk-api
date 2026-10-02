@@ -1,4 +1,8 @@
 # myb-coindesk-api
+
+> [!NOTE]
+> **Archived.** The CoinDesk v1 Bitcoin Price Index API this library calls has been discontinued (api.coindesk.com no longer resolves).
+
  An API client for the Coindesk API
 
 ## Installation
